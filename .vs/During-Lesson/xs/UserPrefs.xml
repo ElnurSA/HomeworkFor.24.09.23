@@ -8,7 +8,9 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="During-Lesson/Program.cs">
     <Files>
-      <File FileName="During-Lesson/Program.cs" Line="46" Column="1" />
+      <File FileName="During-Lesson/Program.cs" Line="153" Column="1" />
+      <File FileName="During-Lesson/Student.cs" />
+      <File FileName="During-Lesson/Calculate.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
